@@ -1,12 +1,13 @@
 #include "Mode.hpp"
 
-#include "Scene.hpp"
 #include "Sound.hpp"
+#include "Story.hpp"
 
 #include <glm/glm.hpp>
 
+#include <memory>
+#include <string>
 #include <vector>
-#include <deque>
 
 struct PlayMode : Mode {
 	PlayMode();
@@ -19,33 +20,20 @@ struct PlayMode : Mode {
 
 	//----- game state -----
 
-	//input tracking:
-	struct Button {
-		uint8_t downs = 0;
-		uint8_t pressed = 0;
-	} left, right, down, up;
+	//the story graph (parsed once from a .twee file) and which passage we're on:
+	Story story;
+	std::string current_passage;
 
-	//local copy of the game scene (so code can change it during gameplay):
-	Scene scene;
+	//clickable regions for the current passage's choices -- recomputed every
+	//draw() call, and used by handle_event() to figure out what a click hit.
+	//(pixel space, origin at the screen's bottom-left, y increasing upward --
+	//same convention draw_passage()/draw_text_box() use internally)
+	struct ChoiceRegion {
+		glm::vec2 min_px, max_px;
+		std::string target;
+	};
+	std::vector< ChoiceRegion > choice_regions;
 
-	//hexapod leg to wobble:
-	Scene::Transform *hip = nullptr;
-	Scene::Transform *upper_leg = nullptr;
-	Scene::Transform *lower_leg = nullptr;
-	glm::quat hip_base_rotation;
-	glm::quat upper_leg_base_rotation;
-	glm::quat lower_leg_base_rotation;
-	float wobble = 0.0f;
-
-	glm::vec3 get_leg_tip_position();
-
-	//music coming from the tip of the leg (as a demonstration):
-	std::shared_ptr< Sound::PlayingSample > leg_tip_loop;
-
-	//car honk sound:
-	std::shared_ptr< Sound::PlayingSample > honk_oneshot;
-	
-	//camera:
-	Scene::Camera *camera = nullptr;
-
+	//looping background music:
+	std::shared_ptr< Sound::PlayingSample > music;
 };

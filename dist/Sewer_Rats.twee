@@ -1,0 +1,562 @@
+:: StoryTitle
+Sewer Rats
+
+
+:: StoryData
+{
+  "ifid": "15188500-87AB-427D-B364-A26C327F6E05",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "01",
+  "zoom": 1
+}
+
+
+:: \ \ Move Your Gaze Downwards\  {"position":"1550,950","size":"100,100"}
+The rat's nose is basically in your hair at this point. It is gross. It is disgustingly wet and cold. You can't bear it anymore. You back up and meet its gaze, and find rows of teeth. 
+
+[[ Run Away || Keep Running Forward ]]
+
+
+:: \ Approach Slowly\  {"position":"475,1850","size":"100,100"}
+It takes your hand slowly, and seems to appreciate the first encounter with human touch. You let go, and it stares back. You have made a friend. 
+
+[[ Ask It For Directions Out Of Here ]] 
+
+[[ Continue Forward Alongside It]]
+
+
+:: \ Approach The Light\  {"position":"1175,1700","size":"100,100"}
+The faint light grows stronger from this door. You notice a truly eerie silence and lack of any life, bugs included, as you approached this door. 
+
+[[ Open It ]] 
+
+[[ Keep Moving Forward ]] 
+
+
+:: \ Ask Again\  {"position":"650,1850","size":"100,100"}
+It takes time to consider it, and leaves you alone. 
+
+
+:: \ Ask For Help From The Man\  {"position":"1775,1550","size":"100,100"}
+The man doesn't even blink, or look in your direction. There is barely an indication of life within him. He sits there, staring blankly into the fire, which crackles on in the dark.
+
+[[ Dial Emergency Services ]] 
+
+[[ Continue Asking ]]
+
+
+:: \ Ask It For Directions Out Of Here\  {"position":"375,2000","size":"100,100"}
+The rat seems to understand that this isn't your home. To return the kindness and trust you displayed towards it, it directs you to follow it. It makes a numerous amount of turns and twists in the endlessly complex system, finally leading to a faint light shooting down from the roof. 
+
+[[ Climb The Ladder ]] 
+
+
+:: \ Ask Who Is On The Other Line\  {"position":"1525,1900","size":"100,100"}
+You hear nothing, but the scuttling of smaller critters in the sewers. Undoubtedly, rats. Great unease sets in as the sounds of crackling flame overtake whatever was on the phone. 
+
+[[ Leave ]] 
+
+[[ Throw The Phone Into The Fire ]] 
+
+
+:: \ Avoid Eye Contact\  {"position":"1550,825","size":"100,100"}
+You attempt to avoid eye contact. Its head comes around to once again meet your gaze. 
+
+[[  Move Your Gaze Downwards ]]
+
+[[ Meet Its Gaze and Stand Your Ground ||Stand Your Ground]] 
+
+
+:: \ Be Realistic\  {"position":"1650,1075","size":"100,100"}
+You realize that this thing is literally over five times your size, and can bite your head off if it so desired. 
+
+[[Run In The Opposite Direction]]
+
+[[ Run Into The Tunnel On The Left ]] 
+
+
+:: \ Beg\  {"position":"1925,1950","size":"100,100"}
+Nothing comes out. The fire continues to burn. It provides warmth, and nothing more. You sit, and embrace its warmth. You will stay here for a while. 
+
+[[ Restart|01]]
+
+
+:: \ Call It Big And Ugly\  {"position":"375,1400","size":"100,100"}
+The rat, against all odds, seems to understand exactly what you just said to it. It lets out a massive roar, and begins chase. 
+
+[[ Deer In Headlights ]] 
+
+[[Run In The Opposite Direction]] 
+
+
+:: \ Climb The Ladder\  {"position":"500,2200","size":"100,100"}
+You climb the ladder, and look down to see your unusual friend look back up at you. You nod, as it returns back to its home, and climb out to see a bustling city, as you wander your way to the nearest shower.
+
+You win!
+
+
+:: \ Climb The Ladder Up\  {"position":"1350,1500","size":"100,100"}
+The closer you get to the top of the ladder, the more light shines through. You are yearning to leave, under any circumstances. You open it to find yourself on top of a sewage treatment plant. 
+
+[[ Leave The Sewers ]] 
+
+
+:: \ Compliment Its Big Teeth\  {"position":"675,1325","size":"100,100"}
+Against all odds, the supermassive rat seems to fully understand this compliment. It performs what you could only describe as a "giant rat smile," and it scurries off, footsteps thundering throughout the entire sewer line, until it's auditory no more. 
+
+You cannot believe that worked. 
+
+[[ Venture Away From The Being ]] 
+
+[[ Investigate Further ]] 
+
+
+:: \ Continue Asking\  {"position":"1925,1700","size":"100,100"}
+The man continues to not react. You feel an ominous sense of desparation as you continue pleading with him. The fire crackles. 
+
+[[ Plead ]] 
+
+
+:: \ Continue Forward Alongside It {"position":"600,2000","size":"100,100"}
+The rat seems to appreciate your kindness. It barges forward and directs you to follow alongside it. It makes a numerous amount of turns and twists in the endlessly complex system, finally leading to a faint light shooting down from the roof. 
+
+[[ Climb The Ladder ]]
+
+
+:: \ Continue On Towards A Faint Light {"position":"1750,1275","size":"100,100"}
+You notice a faint light coming from an opening in one of the sewers. In hope of finding an escape route, you rush towards it, not wanting to try your chances with the creature from before. You come across what looks like a hatch door. 
+
+[[ Open It ]]
+
+[[ Keep Moving Forward ]]
+
+
+:: \ Continue Scrolling\  {"position":"350,1250","size":"100,100"}
+You continue scrolling your phone for the rat to see. You get lost in your own strange attempt to commune with this impossibly sized sewer dweller. It grows immediately impatient, and eats you. You have perished to your own lack of awareness. 
+
+[[ Restart|01]] 
+
+
+:: \ Continue Walking Along The Left Wall\  {"position":"1050,1450","size":"100,100"}
+You finally make it to an opening. That strategy of yours was really great, you think. It seems strange, though, that no other critters and dangerously huge beings stopped you on your way. 
+
+[[ Exit Through The Door ]] 
+
+[[ Continue Wandering ]]
+
+
+:: \ Continue Wandering\  {"position":"1175,1575","size":"100,100"}
+You make it back through the sewers, wondering if you should have just tried the door. Given the darkness, and layout of the tunnels, you can't remember the way back. You notice a faint orange light through a hatch door in the distance. 
+
+[[ Approach The Light ]]
+
+[[ Move Past The Light || Keep Moving Forward ]] 
+
+
+
+
+:: \ Continue Wandering Aimlessly\  {"position":"1375,1275","size":"100,100"}
+You continue forward, ignoring the light. You use your phone, and turn on the flashlight, and see what seems to be a bunch of logs inside the water, alongside a dead-end tunnel with a ladder up. 
+
+[[ Jump On Them To Cross To The Other Side ]]
+
+[[ Climb The Ladder Up ]]
+
+
+:: \ Deer In Headlights\  {"position":"375,1550","size":"100,100"}
+Your choices have led you here. Not the smartest chain of decisions you have made, you thought, but it was funny. The rat visciously chews your cranium off your neck, and ravages your remains. You perish to a series of extremely preventable actions. 
+
+[[Restart |01]] 
+
+
+:: \ Dial Emergency Services\  {"position":"1625,1775","size":"100,100"}
+You feel great unease as the man next to you moves not a single inch. You dial emergency services as you try to get someone to help you. The phone's signal reaches, and something picks up. You hear static. 
+
+[[ Hang Up The Phone And Leave || Leave ]] 
+
+[[ Ask Who Is On The Other Line ]]
+
+[[ Throw The Phone Into The Fire ]]
+
+
+:: \ Dodge Backwards\  {"position":"1000,1150","size":"100,100"}
+You dodge backwards before it decides to visciously decapitate you. Realizing that you might have just made it mad beyond belief, and have just started a fight you can't win, you decide to flee. 
+
+[[ Run Forward || Keep Running Forward ]] 
+
+
+:: \ Double Down\  {"position":"1775,1075","size":"100,100"}
+You increase your volume, and start growling at it even louder. The massive rat's confusion turns into fear, as it slowly starts backing away, causing it to run out of sight. You cannot believe that worked. 
+
+[[ Venture Away From The Being ]] 
+
+
+:: \ Exit Through The Door\  {"position":"1050,1575","size":"100,100"}
+You make your way through the door, to the top of a sewage treatment plant. It opens up to a large river, and leads into a lake. You see the city towering over you, from behind. You breathe a sigh of relief, as you make your way out of the waste, towards home. 
+
+You win!
+
+
+:: \ Gesture For It To Follow\  {"position":"700,1125","size":"100,100"}
+You gesture towards the giant rat to follow you. You have absolutely no idea where you are headed, but perhaps you can get it to lead you somewhere eventually, given its apparent sentience. 
+
+[[ Duck Into The Tunnel On The Left || Run Into The Tunnel On The Left ]] 
+
+[[ Keep Walking Down The Sewer ]] 
+
+
+:: \ Ignore It Harder {"position":"300,825","size":"100,100"}
+The lumbering animal takes offense to your continued disinterest, and slaps you awake with a whip of its tail. 
+
+[[ Meet Its Gaze || Sit Up ]]
+
+[[ Pretend You Didn't Feel It]]
+
+
+:: \ Ignore It Harder Sitting {"position":"1050,875","size":"100,100"}
+You try to ignore it even more than you originally were, to the point where it strains you. You accidentally whimper, and the large creature notices. It slaps you with what seems like a tail. 
+
+[[ Pretend You Didn't Feel It]] 
+
+[[ Pray ]] 
+
+
+:: \ Ignore It Sitting {"position":"1025,650","size":"100,100"}
+You try your best to ignore it while you hope that your call goes through. You make yourself smaller and crouch into a fetal position. 
+
+[[ Ignore It Harder || Ignore It Harder Sitting]] 
+
+[[ Roll Over ]] 
+
+
+:: \ Ignore It Standing\  {"position":"1500,675","size":"100,100"}
+The giant rat notices your disinterest, and grows annoyed. You feel the shift in environment and get uneasy. 
+
+[[ Punch The Rat's Nose || Punch Whatever Is In Front Of You ]] 
+
+[[ Avoid Eye Contact ]] 
+
+
+
+
+:: \ Investigate Further\  {"position":"1175,950","size":"100,100"}
+You try to investigate further, before realizing you were just given a one in a million chance to not be swallowed by darkness and whatever else lies down here. You return to where you were.
+
+[[ Venture Away From The Being ]] 
+
+
+:: \ Jump On Them To Cross To The Other Side\  {"position":"1500,1600","size":"100,100"}
+You feel a fool as you remembered what dwells in fictional sewers. As you land on one of the "logs," it wakes up and takes a chunk out of your leg. The disturbance causes all the others to wake up, and feast on your waste riddled corpse. 
+
+[[ Restart ||01]] 
+
+
+:: \ Keep Moving Forward\  {"position":"1900,1375","size":"100,100"}
+You wander for what seems like hours on end, noticing only small critters. A much needed break from the giant that was pursuing you all that time ago. You come across an opening, into a massive body of water. 
+
+[[ Leave Through The Opening ]] 
+
+[[ Sit For A While ]] 
+
+
+:: \ Keep Running Forward\  {"position":"1300,1125","size":"100,100"}
+You can hear the massive footsteps approaching with increasing pace. What are you even doing, you think. This thing is a quadrupedal being over five times your size. It catches up, and you find yourself in its jaws within seconds. Your remains were never found. 
+
+[[ Restart ||01]]
+
+
+:: \ Keep Walking Down The Sewer\  {"position":"700,1475","size":"100,100"}
+The rat keeps close. You feel a strange peace in knowing that this giant carnivorous, hungry animal is following your commands without mauling you to death. It, too, seems to know this. 
+
+[[ Take Out Some Candy ]] 
+
+[[ Pet It ]] 
+
+
+:: \ Lay Back Down\  {"position":"600,525","size":"100,100"}
+You hear a large pitter pattering that seems to grow louder. However, you have chosen to accept whatever fate awaits you. 
+
+A large, hulking figure towers over you. Its breath reeks. 
+
+[[ Sit Up ]] 
+
+[[ Roll Over ]]
+
+
+:: \ Leave\  {"position":"1775,1775","size":"100,100"}
+You feel disturbed by the man and his fire. You decide to leave from whence you came, and take a different route.
+
+[[ Wander Away || Keep Moving Forward ]] 
+
+
+:: \ Leave It And Continue Forward\  {"position":"850,1850","size":"100,100"}
+During your walk forward, the rat notices a huddle of alligators alongside an assortment of other creatures and bugs. In its boredom of following you, it continues on 
+
+
+:: \ Leave The Sewers\  {"position":"1300,1725","size":"100,100"}
+You stand atop a dam, aerated water surrounding the plant. You look behind you, and see the city you live in. A grand relief washes over you, as you stumble your aching legs and waste drenched body towards the city. 
+
+You win!
+
+
+:: \ Leave Through The Opening\  {"position":"2175,1425","size":"100,100"}
+You head out from the sewage, and are greeted with the smell of greenery. You recognize the spot! It is where you had once gone on a camping trip with... somebody you once knew. You peer across the lake, covered in waste, sweat, and grime, and breathe a sigh of relief. 
+
+You win! 
+
+
+:: \ Negotiate Your Freedom\  {"position":"725,1725","size":"100,100"}
+It considers your words, and stares at you. You come up on a tunnel, while walking forward with the rat close behind. 
+
+[[ Ask Again ]]
+
+[[ Leave It And Continue Forward ]]
+
+
+:: \ Open It\  {"position":"1650,1400","size":"100,100"}
+You open it, and find a garbage fire. There is a man sitting here, wearing a normal sized rat's head. Your jaw drops in disappointment and bewilderment. 
+
+[[ Take A Break And Call For Help ]] 
+
+
+
+
+:: \ Pet It\  {"position":"825,1600","size":"100,100"}
+Too early. The hungry being views this unknown act of human kindness as an aggressive gesture, and proceeds to gnaw your entire head clean off your neck. Your remains were never found in the sewage system. 
+
+[[ Restart ||01]] 
+
+
+:: \ Pet It Gently\  {"position":"475,1725","size":"100,100"}
+You slowly reach out your hand after it finishes your candy. It looks wary of the action, but somewhat receptive. 
+
+[[ Go For It || Pet It ]] 
+
+[[ Approach Slowly ]] 
+
+
+:: \ Play Dead\  {"position":"250,1125","size":"100,100"}
+The intimidating mass in the dark appears to find your performance pitiful, however it admires your dedication to the bit, and leaves you alone. You cannot believe that worked.
+
+[[ Venture Away From The Being ]] 
+
+[[ Try Your Luck || Investigate Further ]]
+
+
+:: \ Plead\  {"position":"1925,1825","size":"100,100"}
+You try to squeeze out a desperate cry for help, but all that comes out is a mere whisper. You realize that you too, are now staring into the flame. 
+
+[[ Beg ]] 
+
+
+:: \ Pray\  {"position":"1175,650","size":"100,100"}
+You take your hands out and pray to every deity you know as the massive presence inches closer to you. The amorphous shadow glares down at your gesture, and seems to pause in its tracks. 
+
+[[ Pray Twice As Hard ]]
+
+[[ Punch Whatever Is In Front Of You ]]
+
+
+:: \ Pray Twice As Hard\  {"position":"1175,825","size":"100,100"}
+The giant amorphous shadow seems to stop in its tracks entirely, and back away. Before long, you can't hear its breathing nor can you feel its presence. You cannot believe that worked as well as it did. 
+
+[[ Venture Away From The Being ]]
+
+[[ Investigate Further ]]
+
+
+:: \ Pretend You Didn't Feel It {"position":"275,975","size":"100,100"}
+The stench-ridden being seems to find your tough display amusing. It decides to bring its face closer to yours. Although your eyes are closed, you can definitely smell it's proximity to you now. 
+
+[[ Play Dead ]]
+
+[[ Punch It While It Is Distracted || Punch Whatever Is In Front Of You ]] 
+
+
+:: \ Punch Whatever Is In Front Of You\  {"position":"850,950","size":"100,100"}
+You hear a terrible squeal as your fist connects with something eerily wet and cold. Your hair stands up on your skin. 
+
+[[Run In The Opposite Direction]]
+
+[[ Dodge Backwards ]] 
+
+[[ Throw Another Punch ]]
+
+
+:: \ Put The Phone Down\  {"position":"550,1250","size":"100,100"}
+You put it down, sensing its growing annoyance. Instead, you try to commune with it.
+
+[[ Call It Big And Ugly ]] 
+
+[[ Compliment Its Big Teeth ]]
+
+
+:: \ Roll Over\  {"position":"300,675","size":"100,100"}
+The giant creature seems to understand this sign of disrespect and feels offended. It creeps closer, growling louder, exposing more of its horrendous scent. 
+
+[[ Ignore It Harder]]
+
+[[ Sit Up ]] 
+
+
+:: \ Run Into The Tunnel On The Left\  {"position":"1475,1100","size":"100,100"}
+The tunnel perfectly fits a person of your stature, while the rat is angrily left outside to bash its head into the smaller tunnel. 
+
+[[ Continue On Towards A Faint Light]] 
+
+[[ Continue Wandering Aimlessly ]]
+
+
+:: \ Show It A Short Form Video\  {"position":"475,1000","size":"100,100"}
+It stares at your attempt to present digital humor. It seems uninterested in human entertainment, and finds disinterest in your continued attempts to distract it. You can sense that it may be hungry. 
+
+[[ Continue Scrolling ]] 
+
+[[ Put The Phone Down ]]
+
+
+:: \ Show It Your Phone\  {"position":"625,825","size":"100,100"}
+You show it a picture of some cheese, and observe its reaction. It seems amused by your daring gesture, and waits to see more. 
+
+[[ Show It A Short Form Video ]]
+
+[[ Gesture For It To Follow ]] 
+
+
+
+:: \ Sit By The Fire\  {"position":"1750,2150","size":"100,100"}
+The man does not follow your movement. You wish to feel warm. You will stay here a while. 
+
+[[ Restart ||01]] 
+
+
+:: \ Sit For A While\  {"position":"2050,1550","size":"100,100"}
+You sit on the edge of the pipe for a while, peering out over the lake. It doesn't matter that you are covered in waste and grime, and are sitting in it. All that matters is that you lived to see another day. 
+
+You win!
+
+
+
+:: \ Sit Up\  {"position":"750,700","size":"100,100"}
+You sit up to meet the giant's gaze. Turns out, it was a massive rat, and it is hungry. However, it seems receptive to your actions. 
+
+[[ Show It Your Phone ]]
+
+[[ Stare At It Blankly ]]
+
+
+:: \ Sit and wait for help\  {"position":"1050,500","size":"100,100"}
+You take a seat, bewildered at the second worst situation you have ever found yourself in. You dial 911, and get ready to make the call, before realizing something of great mass is approaching you. 
+
+[[Run In The Opposite Direction]] 
+
+[[Stand Your Ground]]
+
+[[ Pray ]] 
+
+[[Ignore It | Ignore It Sitting]] 
+
+
+:: \ Stare At It Blankly\  {"position":"850,800","size":"100,100"}
+You give the rat a zoned out stare in the dark. You can't see it, but you can feel its bemusement. It approaches closer, the stench of which is apparent. 
+
+[[ Take out your phone's light ]] 
+
+[[ Pray ]]
+
+[[ Punch Whatever Is In Front Of You ]]
+
+
+:: \ Stare Back\  {"position":"1750,2025","size":"100,100"}
+You stare back at the man. He blinks no more. You feel no more. You wish you were with the rat again. No, you wish to be warm. 
+
+[[ Sit By The Fire ]]
+
+
+:: \ Take A Break And Call For Help\  {"position":"1650,1550","size":"100,100"}
+You sit down next to the weary man, as he makes no sound or intention to look at you. You take out your phone to call emergency services.
+
+[[ Dial Emergency Services ]]
+
+[[ Ask For Help From The Man ]]
+
+[[ Leave ]] 
+
+
+:: \ Take Out Some Candy\  {"position":"600,1600","size":"100,100"}
+You take out some candy to give to the rat. It sniffs your morsels with its giant nose, and eats it. It seems to love the taste of sugar. 
+
+[[ Pet It Gently ]] 
+
+[[ Negotiate Your Freedom ]]
+
+
+:: \ Take out your phone's light\  {"position":"1475,525","size":"100,100"}
+You take out your phone's and turn on its flashlight. You see many large eyes staring at you from the distance, with one approaching rapidly. 
+
+[[Run In The Opposite Direction]]
+
+[[Stand Your Ground]] 
+
+[[ Ignore It | Ignore It Standing ]]
+
+
+:: \ Throw Another Punch\  {"position":"850,1150","size":"100,100"}
+You try to throw another punch. It backs away, then lunges forward before the recoil of your punch has faded. It bites your head clean off. 
+
+[[ Restart ||01]]
+
+
+:: \ Throw The Phone Into The Fire\  {"position":"1750,1900","size":"100,100"}
+Your gut instinct tells you to hurl your phone into the fire, and that you do. The man blinks once, and turns to stare at you. 
+
+[[ Ask For Help From The Man ]] 
+
+[[ Leave ]] 
+
+[[ Stare Back ]]
+
+
+:: \ Venture Away From The Being\  {"position":"1125,1300","size":"100,100"}
+You make your away as far away as you can from the giant creature. You begin aimlessly wandering around, remembering that hugging the left wall in a maze eventualy gets you out of it. You see a faint light in the distance. 
+
+[[ Continue Walking Along The Left Wall ]] 
+
+[[ Walk Towards The Light ]] 
+
+
+:: \ Walk Towards The Light\  {"position":"1200,1450","size":"100,100"}
+You find a door, with a faint orange light behind it. It has grown eerily quiet around this area.
+
+[[ Open It ]] 
+
+[[ Keep Moving Forward ]] 
+
+
+:: 01 {"position":"1050,250","size":"100,100"}
+You wake up and find yourself stuck in the dark. There are strange squeals and noises all around you, and what is this horrific smell ???
+
+[[ Take out your phone's light ]] 
+
+[[ Sit and wait for help ]] 
+
+[[ Lay Back Down ]]
+
+
+:: Run In The Opposite Direction {"position":"1375,825","size":"100,100"}
+The giant creature bolts at you, screaming, as you make a mad dash for it. You use your phone's flashlight to show  the way forward, and avoid any incoming obstacles. You can hear it gaining on you. 
+
+[[ Keep Running Forward ]] 
+
+[[ Run Into The Tunnel On The Left ]]
+
+
+:: Stand Your Ground {"position":"1675,650","size":"100,100"}
+You put on a fierce look. Fiercer than you ever have been before. You snarl at it and stand taller. The giant rat stares bemusingly. 
+
+[[ Punch It In Its Nose || Punch Whatever Is In Front Of You ]]  
+
+[[ Double Down ]]
+
+[[ Be Realistic ]]
